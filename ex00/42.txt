@@ -1,0 +1,26 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    42.txt                                             :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jobirech <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/06/04 16:01:47 by jobirech          #+#    #+#              #
+#    Updated: 2018/06/04 16:53:08 by jobirech         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+ls - list;
+pwd - print working directory;
+cd - change directory;
+cat - display content in a file;
+cp - copy;
+mv - move;
+ls -la - list files including hidden files;
+ls -l list filses and directory with their permisions;
+touch - make file;
+banner - create a bannner;
+say - have the computer say anything;
+rmdir - remove directory;
+rm - remove file;
+rm -rf remove a directory that is not empty;
